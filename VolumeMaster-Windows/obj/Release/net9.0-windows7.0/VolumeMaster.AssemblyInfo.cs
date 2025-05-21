@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VolumeMaster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+787cb3fc8588a61af80b8f5b75ac77953cbe6e8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f54c4e4811717693e6f41a6168888ea8beb834d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("VolumeMaster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VolumeMaster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
